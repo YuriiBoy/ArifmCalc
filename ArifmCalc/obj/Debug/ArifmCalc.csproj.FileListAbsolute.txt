@@ -1,0 +1,7 @@
+D:\step\C#\HW\ArifmCalc\ArifmCalc\bin\Debug\ArifmCalc.exe.config
+D:\step\C#\HW\ArifmCalc\ArifmCalc\bin\Debug\ArifmCalc.exe
+D:\step\C#\HW\ArifmCalc\ArifmCalc\bin\Debug\ArifmCalc.pdb
+D:\step\C#\HW\ArifmCalc\ArifmCalc\obj\Debug\ArifmCalc.csproj.AssemblyReference.cache
+D:\step\C#\HW\ArifmCalc\ArifmCalc\obj\Debug\ArifmCalc.csproj.CoreCompileInputs.cache
+D:\step\C#\HW\ArifmCalc\ArifmCalc\obj\Debug\ArifmCalc.exe
+D:\step\C#\HW\ArifmCalc\ArifmCalc\obj\Debug\ArifmCalc.pdb
